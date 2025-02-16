@@ -80,7 +80,7 @@ Sentence 1: Sarcasm detected with probability 0.75
 Sentence 2: No sarcasm detected with probability 0.25
 ```
 
-## Visualizing Training Results:
+### Visualizing Training Results:
 ```python
 # Accuracy and loss over epochs
 plot_graphs(history, "accuracy")
@@ -96,5 +96,9 @@ plot_graphs(history, "loss")
 ├── README.md               # Project overview
 ├── sarcasm_detection.py    # Main script for training and prediction
 ```
+
+## License
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
 
 
